@@ -1,10 +1,12 @@
-import Header from "./header" 
-import Footer from "./footer";
+import Header from "./header"; 
+import Footer from "./Footer";
+import Card from "./Card";
 
 function App() {
   return (
     <>
-    <Header></Header>
+      <Header></Header>
+      <Card></Card>
       <Footer></Footer>
     </>
   );

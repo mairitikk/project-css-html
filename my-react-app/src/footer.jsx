@@ -1,7 +1,7 @@
 function Footer() {
     return (
         <footer>
-            <p>&copy; DriMT</p>
+            <p>&copy; {new Date().getFullYear()} DriMT</p>
       </footer>  
     );
     
