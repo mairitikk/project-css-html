@@ -2,7 +2,7 @@ function Header() {
     return (
         <header>
             <h1>
-                My Website
+                DriMT
             </h1>
                 <nav>
                     <ul>
