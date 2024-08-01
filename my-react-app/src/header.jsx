@@ -7,10 +7,11 @@ function Header() {
                 <nav>
                     <ul>
                         <li><a href="#"> Home</a></li>
-                        <li><a href="#">About</a></li>
+                        <li><a href="/my-react-app/src/Student.jsx">Student</a></li>
                         <li><a href="#">
-                            Services</a></li>
-                        <li><a href="#">Contact</a></li>
+                            Deals</a></li>
+                    <li><a href="#">Start lesson</a></li>
+                        <li><a href="#">Lessons time</a></li>
                     </ul>
                 </nav>
 <hr />
