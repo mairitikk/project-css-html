@@ -4,6 +4,7 @@ import Card from "./Card";
 import Button from "./button/Button";
 import Student from "./Student.jsx";
 import UserGreeting from "./UserGreeting.jsx";
+import List from "./List.jsx";
 function App() {
   return (
     <>
@@ -18,6 +19,7 @@ function App() {
       <UserGreeting isLoggedIn={false
     
       } username="MATG"></UserGreeting>
+      <List></List>
       <Footer></Footer>
     </>
   );
