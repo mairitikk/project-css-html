@@ -5,6 +5,7 @@ import Button from "./button/Button";
 import Student from "./Student.jsx";
 import UserGreeting from "./UserGreeting.jsx";
 import List from "./List.jsx";
+import ProfilePicture from "./ProfilePicture.jsx";
 function App() {
   return (
     <>
@@ -20,6 +21,7 @@ function App() {
     
       } username="MATG"></UserGreeting>
       <List></List>
+      <ProfilePicture></ProfilePicture>
       <Footer></Footer>
     </>
   );
