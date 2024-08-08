@@ -9,6 +9,7 @@ import ProfilePicture from "./ProfilePicture.jsx";
 
 import MyComponent from "./MyComponent.jsx";
 import Counter from "./Counter.jsx";
+import OnChange from "./OnChange.jsx";
 function App() {
   return (
     <>
@@ -27,6 +28,7 @@ function App() {
       <ProfilePicture></ProfilePicture>
       <MyComponent></MyComponent>
       <Counter></Counter>
+      <OnChange></OnChange>
    
       <Footer></Footer>
     </>
