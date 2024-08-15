@@ -13,6 +13,7 @@ import OnChange from "./OnChange.jsx";
 import ColorPicker from "./ColorPicker.jsx";
 import UpdaterFunction from "./UpdaterFunction.jsx";
 import UpdateObject from "./UpdateObjects.jsx";
+import UpdateArrays from "./UpdateArrays.jsx";
 function App() {
   return (
     <>
@@ -35,6 +36,7 @@ function App() {
       <ColorPicker></ColorPicker>
       <UpdaterFunction></UpdaterFunction>
       <UpdateObject></UpdateObject>
+      <UpdateArrays></UpdateArrays>
       <Footer></Footer>
       
     </>
