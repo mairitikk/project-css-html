@@ -14,6 +14,7 @@ import ColorPicker from "./ColorPicker.jsx";
 import UpdaterFunction from "./UpdaterFunction.jsx";
 import UpdateObject from "./UpdateObjects.jsx";
 import UpdateArrays from "./UpdateArrays.jsx";
+import ArrayOfObjectsState from "./ArrayOfObjectsState.jsx";
 function App() {
   return (
     <>
@@ -37,6 +38,7 @@ function App() {
       <UpdaterFunction></UpdaterFunction>
       <UpdateObject></UpdateObject>
       <UpdateArrays></UpdateArrays>
+      <ArrayOfObjectsState></ArrayOfObjectsState>
       <Footer></Footer>
       
     </>
