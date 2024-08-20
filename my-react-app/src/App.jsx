@@ -15,6 +15,7 @@ import UpdaterFunction from "./UpdaterFunction.jsx";
 import UpdateObject from "./UpdateObjects.jsx";
 import UpdateArrays from "./UpdateArrays.jsx";
 import ArrayOfObjectsState from "./ArrayOfObjectsState.jsx";
+import ToDOList from "./ToDoList.jsx";
 function App() {
   return (
     <>
@@ -39,6 +40,7 @@ function App() {
       <UpdateObject></UpdateObject>
       <UpdateArrays></UpdateArrays>
       <ArrayOfObjectsState></ArrayOfObjectsState>
+      <ToDOList></ToDOList>
       <Footer></Footer>
       
     </>
