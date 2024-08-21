@@ -17,6 +17,7 @@ import UpdateArrays from "./UpdateArrays.jsx";
 import ArrayOfObjectsState from "./ArrayOfObjectsState.jsx";
 import ToDOList from "./ToDoList.jsx";
 import UseEffectHook from "./UseEffectHook.jsx";
+import UseEffect2 from "./UseEffect2.jsx";
 function App() {
   return (
     <>
@@ -43,6 +44,7 @@ function App() {
       <ArrayOfObjectsState></ArrayOfObjectsState>
       <ToDOList></ToDOList>
       <UseEffectHook></UseEffectHook>
+      <UseEffect2></UseEffect2>
       <Footer></Footer>
       
     </>
