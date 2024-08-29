@@ -18,6 +18,9 @@ import ArrayOfObjectsState from "./ArrayOfObjectsState.jsx";
 import ToDOList from "./ToDoList.jsx";
 import UseEffectHook from "./UseEffectHook.jsx";
 import UseEffect2 from "./UseEffect2.jsx";
+import DigitalClock from "./DigitalClock.jsx";
+import ComponentA from "./ComponentA.jsx";
+
 function App() {
   return (
     <>
@@ -45,6 +48,9 @@ function App() {
       <ToDOList></ToDOList>
       <UseEffectHook></UseEffectHook>
       <UseEffect2></UseEffect2>
+      <DigitalClock></DigitalClock>
+      <ComponentA></ComponentA>
+    
       <Footer></Footer>
       
     </>
