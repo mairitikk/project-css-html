@@ -21,6 +21,7 @@ import UseEffect2 from "./UseEffect2.jsx";
 import DigitalClock from "./DigitalClock.jsx";
 import ComponentA from "./ComponentA.jsx";
 import UseRef from "./UseRef.jsx";
+import Stopwatch from "./Stopwatch.jsx";
 
 function App() {
   return (
@@ -52,6 +53,7 @@ function App() {
       <DigitalClock></DigitalClock>
       <ComponentA></ComponentA>
       <UseRef></UseRef>
+      <Stopwatch></Stopwatch>
     
       <Footer></Footer>
       
